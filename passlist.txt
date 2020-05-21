@@ -1,0 +1,4 @@
+12345Password
+Password1234!
+@password@123
+test@password123
